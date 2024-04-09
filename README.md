@@ -16,26 +16,26 @@ git push origin YOUR_BRANCH
 
 ## Usage on windows
 
-Open Task Scheduler: Find Task Scheduler in the Start menu and open it.
+:zap:Open Task Scheduler: Find Task Scheduler in the Start menu and open it.
 
-Create a task: Click Create task in the right pane. Give your task a name,
+:zap:Create a task: Click Create task in the right pane. Give your task a name,
     choose Run whether the user is logged in or not, and configure it to run your batch script.
     Under the Triggers tab, click New and set it to trigger on time
     desired every day.
 
-Action: Under the Actions tab, add a new action to start a program, and select your
+:zap:Action: Under the Actions tab, add a new action to start a program, and select your
     batch script.
 
 ## Notes Importantes :
 
-Git Authentication: Make sure your system can push to your repository without manual intervention.
+:zap:Git Authentication: Make sure your system can push to your repository without manual intervention.
           This may require configuring authentication by
           SSH key or using a credential manager for Git.
 
-Security: Keep in mind the security implications of leaving a script
+:zap:Security: Keep in mind the security implications of leaving a script
           have access to your Git repositories.
           
-Automating these tasks can save you time and ensure regularity in your commitments.
+:zap:Automating these tasks can save you time and ensure regularity in your commitments.
           Git, but use it wisely, especially on shared projects where automatic commits
           can disrupt the team's workflow.
 
