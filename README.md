@@ -15,7 +15,7 @@ git push  origin YOUR_BRANCH
 
 ## Usage
 
-```bash
+```txt
 Ouvrez le Planificateur de tâches : Recherchez le Planificateur de tâches dans le menu Démarrer et ouvrez-le.
 
 Créez une tâche : Cliquez sur Créer une tâche dans le volet de droite. Donnez un nom à votre tâche, choisissez Exécuter que l'utilisateur est connecté ou non, et configurez-le pour exécuter votre script batch. Sous l'onglet Déclencheurs, cliquez sur Nouveau et configurez-le pour qu'il se déclenche à l'heure souhaitée chaque jour.
@@ -23,7 +23,7 @@ Créez une tâche : Cliquez sur Créer une tâche dans le volet de droite. Donne
 Action : Sous l'onglet Actions, ajoutez une nouvelle action pour démarrer un programme, et sélectionnez votre script batch.
 ```
 
-```bash
+```txt
 Notes Importantes :
     Authentification Git : Assurez-vous que votre système peut pousser vers votre dépôt sans intervention manuelle. Cela peut nécessiter la configuration de l'authentification par clé SSH ou l'utilisation d'un gestionnaire de credentials pour Git.
     Sécurité : Gardez à l'esprit les implications de sécurité de laisser un script avoir accès à vos dépôts Git.
