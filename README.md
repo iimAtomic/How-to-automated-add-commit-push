@@ -1,6 +1,6 @@
 # HOW TO AUTOMATED ADD-COMMIT-PUSH
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvectorified.com%2Fdragon-ball-icon&psig=AOvVaw2K-mzuvXJYMSdY5gdvf1JO&ust=1712737232523000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCM8MrZtIUDFQAAAAAdAAAAABAJ "goku flemmard")
+![Alt text]( https://vectorified.com/dragon-ball-icon#dragon-ball-icon-39.png "goku flemmard")
 
 
 Il s'agit d'une methode facile pour automatisé ses push en fin de journée si vous etes aussi tete en l'air que moi 
