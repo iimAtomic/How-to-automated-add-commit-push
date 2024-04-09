@@ -1,5 +1,8 @@
 # HOW TO AUTOMATED ADD-COMMIT-PUSH
 
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvectorified.com%2Fdragon-ball-icon&psig=AOvVaw2K-mzuvXJYMSdY5gdvf1JO&ust=1712737232523000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCM8MrZtIUDFQAAAAAdAAAAABAJ "goku flemmard")
+
+
 Il s'agit d'une methode facile pour automatisé ses push en fin de journée si vous etes aussi tete en l'air que moi 
 
 ## Installation
@@ -15,7 +18,7 @@ git push  origin YOUR_BRANCH
 
 ## Usage
 
-```md
+
 Ouvrez le Planificateur de tâches : Recherchez le Planificateur de tâches dans le menu Démarrer et ouvrez-le.
 
 Créez une tâche : Cliquez sur Créer une tâche dans le volet de droite. Donnez un nom à votre tâche,
@@ -25,9 +28,9 @@ Créez une tâche : Cliquez sur Créer une tâche dans le volet de droite. Donne
 
 Action : Sous l'onglet Actions, ajoutez une nouvelle action pour démarrer un programme, et sélectionnez votre
     script batch.
-```
 
-```md
+
+
 Notes Importantes :
     Authentification Git : Assurez-vous que votre système peut pousser vers votre dépôt sans intervention manuelle.
           Cela peut nécessiter la configuration de l'authentification par
@@ -39,7 +42,7 @@ Notes Importantes :
     L'automatisation de ces tâches peut vous faire gagner du temps et assurer une certaine régularité dans vos engagements
           Git, mais utilisez-la judicieusement, surtout sur des projets partagés où des commits automatiques
           peuvent perturber le flux de travail de l'équipe.
-```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
